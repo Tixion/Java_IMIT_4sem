@@ -116,7 +116,6 @@ public class ListDemo {
             }
             finish.get(chel.getAge()).add(chel);
         }
-
         return finish;
     }
 }
